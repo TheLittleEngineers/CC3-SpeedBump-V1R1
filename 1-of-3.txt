@@ -1,0 +1,32 @@
+/* ***************************************************************************************************/
+/* The original design utilized a couple of "primitive" MMI PLD's, with the logic written in PALASM. */
+/* Those original design files were created using CoCo CAD for schematics and a  hand  designed  and */
+/* etched PCB. When my nephew asked what this board was (it was in one of the CoCo 3s that I gave to */
+/* his father, who gave it to him), I explained it's operation to him. My nephew  is  "Little John", */
+/* and  so  he  was  intriqued. He reverse engineered the schematic and asked if I could provide the */
+/* equations for those old PALs. Back then, I designed everything on paper and later transferred  it */
+/* to CoCoCAD. I did not have advanced tools at my disposal. I dusted off my notebooks and found the */
+/* design.  Although  workable,  PALs and PLDs  are extinct, so I updated the design to use a single */
+/* Lattice or Atmel 22V10 GAL and rewrote the equations in CUPL and sent that to  "Little John".  My */
+/* twin brother, "Big John" contacted me today, distraught at the suicide of his friend and neighbor */
+/* Joey. During the course of the conversation, he mentioned that he  was  distributing  all  of  my */
+/* Nephew's  Color Computer, Sinclair, Coleco, etc.  designs as open source hardware, which was what */
+/* "Little John" wanted. Given that some of the designs were either my work, reworkings of  my  work */
+/* and so on, "Big John"  asked  for my permission to distribute those files that might contain some */
+/* of my work. I told him the same thing that I told "Little John" back in 2008 - I gave all  of  my */
+/* work  to  John Eric back in 2008 to do with as he wanted. Whatever "Big John" determines to be an */
+/* appropriate license is fine. Basically, you can  sell  products  based  on  my  work,  give  them */
+/* away, etc. My  Forte'  was  software,  so  VERY LITTLE  of  my  Nephew's work will likely contain */
+/* anything that I designed. The two that come to mind are this SpeedBump design and my  512K Static */
+/* RAM Upgrade for the CoCo 3. SpeedBump was created  in  1986  and  the  SRAM Upgrade  was  created */
+/* in 1991, I think. Given  that  I  abandoned the CoCo, Kaypro and Sinclair markets long ago, it is */
+/* likely that you (the person reading this) will understand more about my designs than I do at this */
+/* stage. My brother, "Big John" might be able to be of some help in this  area,  or  maybe  "Little */
+/* John", though I haven't heard from him personally since early 2010. Regardless, I do not wish  to */
+/* be  bothered with any of this, I have far more pressing issues to occupy my time these days and I */
+/* prefer to be left alone. This seemed important to my brother, so I am assisting with some of  it, */
+/* though  not  very  much.  Thus, if  any  of  my  work turns up as part of "Little John's" work or */
+/* otherwise, feel free to do whatever you need to do with it, EXCEPT claim it  as  your  own.  What */
+/* follows  is  the  original  write-up  that  I  prepared  for  "Little John" in 2008 regarding the */
+/* "SpeedBump" design. - "Ankle Bob" - August 31, 2017 (am I really that old?)			     */			/*												     */
+/* ************************************************************************************************* */

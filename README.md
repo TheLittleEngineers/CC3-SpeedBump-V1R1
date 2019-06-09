@@ -124,7 +124,7 @@ PLEASE NOTE: THIS VERSION HAS NOT YET BEEN TESTED.</em></b> </u>
 I have ordered PCBs (Printed Circuit Boards) and will update this project after 
 testing is complete.</p>
 
-      <hr>
+<hr>
 
 </font></td>
     </tr>

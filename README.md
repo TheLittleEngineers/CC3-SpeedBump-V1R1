@@ -28,8 +28,8 @@ Robert "The R.A.T." Allen Turner<br>
 <a href="mailto:TheLittleEngineers@outlook.com">TheLittleEngineers@outlook.com</a><br>
 <a href="mailto:OurLittleEngineers@gMail.com">OurLittleEngineers@gMail.com</a></font><hr><font size="4">
 <p align="justify">This product, 
-<a href="https://github.com/TheLittleEngineers/CC3-SpeedBump-V1R1" target="_blank">TheLittleEngineers.org-CC3-SpeedBump-V1R1-30-MARCH-1987</a>, is intended to add the old TRS80 Color Computer 1 and 2 High-Speed POKE back to the Tandy Color Computer 3, in hardware.</p>
-      <hr>
+<a href="https://github.com/TheLittleEngineers/CC3-SpeedBump-V1R1" target="_blank">TheLittleEngineers.org-CC3-SpeedBump-V1R1-30-MARCH-1987</a>, is intended to add the old TRS80 Color Computer 1 and 2 High-Speed POKE back to the Tandy Color Computer 3, in hardware. The HTML utilized in this <a href="https://github.com/TheLittleEngineers/CC3-SpeedBump-V1R1/blob/master/README.md" target="_blank">README.md</a> file may make it difficult to read directly from  <a href="https://github.com/TheLittleEngineers/CC3-SpeedBump-V1R1" target="_blank">GitHub</a> in your browser. Clicking <a href="http://www.TheLittleEngineers.org/files/html/pages/CC3-SpeedBump-V1R1.htm" target="_blank">here</a> will open the <a href="https://github.com/TheLittleEngineers/CC3-SpeedBump-V1R1/blob/master/README.md" target="_blank">README.md</a> file in a new tab or window from <a href="http://www.TheLittleEngineers.org/files/html/pages/CC3-SpeedBump-V1R1.htm" target="_blank">The Little Engineers</a> website for much easier viewing.</p>
+      <hr align="justify">
 <p align="center">
 <a href="http://www.TheLittleEngineers.org/files/html/pages/CC3-SpeedBump-V1R1.htm" target="_blank">SpeedBump</a> - A 
 <a href="http://www.TheLittleEngineers.org/files/html/pages/CC3-SpeedBump-V1R1.htm" target="_blank">Hardware</a>
@@ -56,7 +56,7 @@ board sat in one of my <i>CoCo 3's</i> for decades, until such time as I passed
 my <i>vintage computing and electronics collection</i> on to my brother, <b>J.R. 
 (John Robert)</b> who then passed it on to his son, <b>J.E. (John Eric or 
 &quot;Little John&quot;).</b></p>
-      <hr>
+      <hr align="justify">
 <p align="justify">A request from my <i>nephew</i>, <i>"Little John"</i>, prompted me, in part, to redesign the device utilizing a single 
 <b>22V10 GAL</b>. This was a desirable decision due to the scarcity of the older
 <b>PLD</b> and <b>PAL</b> devices and the fact that often, when purchased, <i>the older devices have already been programmed</i>. Being 
@@ -81,7 +81,7 @@ If the machine were a <b>64K RAM</b> machine running in <b>All RAM mode</b>, it 
 <b>MC6883</b> <i>and all versions of the</i> <b>74LS785</b> <i>allowed the address dependent mode to function while in</i>
 <b>"ALL-RAM"</b> <i>mode as well).</i> This version, the 
 <a href="http://www.TheLittleEngineers.org/files/html/pages/CC3-SpeedBump-V1R1.htm" target="_blank">CC3-SpeedBump-V1R1-30-MARCH-1987</a> is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International</a> (<a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" target="_blank">CC BY-SA 4.0</a>) License.</p>
-<p align="justify">There is an
+<p align="center">There is an
 <a href="https://oshpark.com/shared_projects/ZUfVJGEa" target="_blank">OSHPark</a>
 <a href="https://oshpark.com/shared_projects/ZUfVJGEa" target="_blank">Page</a> for this project here: <a href="https://oshpark.com/shared_projects/ZUfVJGEa">https://oshpark.com/shared_projects/ZUfVJGEa</a>.</p>
 <p align="justify">This design should be thoroughly scrutinized and verified prior to actual use of any kind. 
@@ -124,7 +124,7 @@ PLEASE NOTE: THIS VERSION HAS NOT YET BEEN TESTED.</em></b> </u>
 I have ordered PCBs (Printed Circuit Boards) and will update this project after 
 testing is complete.</p>
 
-<hr>
+      <hr align="justify">
 
 </font></td>
     </tr>
@@ -465,4 +465,3 @@ Thank You for your time. I hope that you enjoy using these products as much as I
 </body>
 
 </html>
-

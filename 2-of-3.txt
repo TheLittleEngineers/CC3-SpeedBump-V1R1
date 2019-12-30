@@ -32,7 +32,8 @@
 /* though  not  very  much.  Thus, if  any  of  my  work turns up as part of "Little John's" work or */
 /* otherwise, feel free to do whatever you need to do with it, EXCEPT claim it  as  your  own.  What */
 /* follows  is  the  original  write-up  that  I  prepared  for  "Little John" in 2008 regarding the */
-/* "SpeedBump" design. - "Ankle Bob" - August 31, 2017 (am I really that old?)			     */			/*												     */
+/* "SpeedBump" design. - "Ankle Bob" - August 31, 2017 (am I really that old?)			     */
+/*												     */
 /*                                                                                                   */
 /* ************************************************************************************************* */
 /*                                                                                                   */
